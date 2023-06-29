@@ -7,9 +7,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=student-ops&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Tech Stacks
+<!-- # Tech Stacks -->
 
-フロントエンド
+<!-- フロントエンド
 
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="38px" height="38px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="38px" height="38px"></a>
@@ -40,5 +40,5 @@
 
 -   Dcoker
 -   AWS
--   postgres
+-   postgres -->
 
