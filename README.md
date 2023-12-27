@@ -7,6 +7,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=student-ops&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=studnet-ops)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- # Tech Stacks -->
 
 
