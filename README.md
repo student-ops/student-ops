@@ -1,4 +1,4 @@
-## An University Student, Software Engineer
+## An System Engineer
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-ops&layout=compact&count_private=true&show_icons=true&theme=onedark" />
